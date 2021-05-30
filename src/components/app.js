@@ -4,8 +4,8 @@ export default class App extends Component {
   render() {
     return (
       <div className='app'>
-        <h1>DevCamp React Starter</h1>
-        <h2>React Redux Router</h2>
+        <h1>Madlibs Builder</h1>
+        <h2>This is a react app by Braden Bird</h2>
       </div>
     );
   }
