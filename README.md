@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+# Madlibs For React Practice see if you can build one out on your own!
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> This source code is inteaded to be as a referance for the project. You can follow along with my commits and see how you can do it different or the same or even through your own kind of twist on the entire project.
 
 *Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
