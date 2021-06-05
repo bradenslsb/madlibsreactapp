@@ -5,7 +5,7 @@ export default class App extends Component {
     return (
       <div className='app'>
         <h1>Madlibs Builder</h1>
-        <h2>It is a react app by Braden Bird</h2>
+        <h2>It is a react app the one and only</h2>
       </div>
     );
   }
